@@ -1,6 +1,3 @@
-Here's the complete markdown file with proper formatting:
-
-
 # LocalStack Setup for TinyFlix Project
 
 This document explains the commands used to set up a local AWS environment using LocalStack for the TinyFlix project.
