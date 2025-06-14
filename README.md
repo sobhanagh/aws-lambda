@@ -23,8 +23,7 @@ This is a simple example demonstrating how to use an **AWS Lambda function** tha
 - 🐳 **Docker** installed and running on your machine  
 - 🔁 **LocalStack** Docker image pulled (`localstack/localstack`)  
 - 🧰 **AWS CLI** and `awslocal` installed (`pip install awscli-local`)  
-- 📄 Your Lambda function code (e.g., `main.py`) in a local folder  
-- 💻 Windows PowerShell (or an equivalent terminal that supports `Compress-Archive`, `Out-File`, etc.)
+- 📄 Your Lambda function code (e.g., `main.py`) in a local folder
 
 ---
 
