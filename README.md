@@ -1,2 +1,2 @@
-# Just a simple example of using aws lambda function
-## by creating a s3 and a trigger for a lambda function
+# 🚀 Simple Example: AWS Lambda with S3 Trigger
+## 📂 Automatically Trigger a Lambda Function When a File is Uploaded to S3
