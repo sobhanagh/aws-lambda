@@ -1,4 +1,4 @@
-# 🚀 Simple Example: AWS Lambda with S3 Trigger
+# 🚀 AWS Lambda with S3 Trigger
 ## 📂 Automatically Trigger a Lambda Function When a File is Uploaded to S3
 
 This is a simple example demonstrating how to use an **AWS Lambda function** that gets triggered whenever a file is uploaded to an **S3 bucket**, all running locally using **LocalStack**.
