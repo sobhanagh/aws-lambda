@@ -130,7 +130,8 @@ awslocal s3 path s3://tinyflix/
 ```docker
 docker logs <container_id_of_localstack>
 ```
-### somthing like this 
+### something like this 
 ```bash
 docker logs distracted-leakey-lambda-my-local-lambda-8706ecba95c15cccdf8ec923dafc4086 
 ```
+
